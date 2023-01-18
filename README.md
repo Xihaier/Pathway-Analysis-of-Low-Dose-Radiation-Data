@@ -4,7 +4,7 @@ Pathway analysis of low dose radiation data
 <p><img src="img/method.png" title="Method" width="900"><p>
 
 ## Associated Papers
-- [Comprehensive analysis of gene expression profiles to radiation exposure reveals molecular signatures of low-dose radiation response](https://ieeexplore.ieee.org/abstract/document/9995607) [ [ArXiV]([https://arxiv.org/abs/2108.13203](https://arxiv.org/abs/2301.01769)) ] [ [2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)]([https://iclr.cc/virtual/2021/workshop/2123](https://ieeexplore.ieee.org/abstract/document/9995607)) ]
+- Comprehensive analysis of gene expression profiles to radiation exposure reveals molecular signatures of low-dose radiation response [ [ArXiV](https://arxiv.org/abs/2301.01769) ] [ [2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://ieeexplore.ieee.org/abstract/document/9995607) ]
 - A Bayesian Deep Learning Approach to Near-Term Climate Prediction [ [ArXiV](https://arxiv.org/abs/2202.11244) ] [ [Journal of Advances in Modeling Earth Systems](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022MS003058) ]
 
 [Xihaier Luo](https://xihaier.github.io/), Balasubramanya T Nadiga, Yihui Ren, Ji Hwan Park, Wei Xu, Shinjae Yoo
