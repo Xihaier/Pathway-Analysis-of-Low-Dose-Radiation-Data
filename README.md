@@ -5,7 +5,7 @@ Pathway analysis of low dose radiation data
 
 ## Associated Papers
 - Comprehensive analysis of gene expression profiles to radiation exposure reveals molecular signatures of low-dose radiation response [ [ArXiV](https://arxiv.org/abs/2301.01769) ] [ [2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://ieeexplore.ieee.org/abstract/document/9995607) ]
-- A Bayesian Deep Learning Approach to Near-Term Climate Prediction [ [ArXiV](https://arxiv.org/abs/2202.11244) ] [ [Journal of Advances in Modeling Earth Systems](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022MS003058) ]
+- Best poster award at 2022 Summer Symposium Adjourned Precision Medicine Applications in Radiation Oncology [ [CI4CC]([https://arxiv.org/abs/2202.11244](https://www.ci4cc.org/2022-InPerson-society-symposium)) ]
 
 [Xihaier Luo](https://xihaier.github.io/), Balasubramanya T Nadiga, Yihui Ren, Ji Hwan Park, Wei Xu, Shinjae Yoo
 
