@@ -12,43 +12,17 @@ Pathway analysis of low dose radiation data
 
 ## Dependencies
 - python 3
-- PyTorch
 - matplotlib
 
 
 ## Installation
 
-- Install PyTorch and other dependencies
+- Install the needed dependencies
 
 - Clone this repo:
 
 ```
-git clone https://github.com/Xihaier/Near-Term-Climate-Prediction-BDL
-```
-
-
-## Dataset
-
-The dataset used have been uploaded to Google Drive and can be downloaded with corresponding links.
-
-Link: https://zenodo.org/record/6822275#.YzMpJOyZMeY
-
-
-## Model
-<p><img src="img/problem.png" title="problem" width="500"><p>
-  
-We ran extensive models and shared some of the best ones here, which can be divided into two categories: deterministic models and Bayesian models. For example, if a deterministic model, such as DenseNet, is chosen, one should run 
-
-```bash
-cd src
-python main_DL.py
-```
-
-If you are interested in ConvLSTM and its variants, we have included our implementation in the appendix folder.
-
-```bash
-cd appendix
-python main.py
+git clone https://github.com/Xihaier/pathway_analysis
 ```
 
 ## Citation
@@ -56,11 +30,13 @@ python main.py
 If you find this repo useful for your research, please consider to cite:
 
 ```latex
-@article{luo2022bayesian,
-  title={A Bayesian Deep Learning Approach to Near-Term Climate Prediction},
-  author={Luo, Xihaier and Nadiga, Balasubramanya T and Ren, Yihui and Park, Ji Hwan and Xu, Wei and Yoo, Shinjae},
-  journal={arXiv preprint arXiv:2202.11244},
-  year={2022}
+@inproceedings{luo2022comprehensive,
+  title={Comprehensive analysis of gene expression profiles to radiation exposure reveals molecular signatures of low-dose radiation response},
+  author={Luo, Xihaier and McCorkle, Sean and Park, Gilchan and L{\'o}pez-Marrero, Vanessa and Yoo, Shinjae and Dougherty, Edward R and Qian, Xiaoning and Alexander, Francis J and Yoon, Byung-Jun},
+  booktitle={2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={2366--2374},
+  year={2022},
+  organization={IEEE}
 }
 ```
 
