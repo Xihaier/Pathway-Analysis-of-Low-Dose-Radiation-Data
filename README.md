@@ -1,7 +1,7 @@
 # pathway_analysis
 Pathway analysis of low dose radiation data
 
-<p><img src="img/mask.png" title="ground truth" width="300"><img src="img/sample.gif" title="sample" width="340"><p>
+<p><img src="img/method.png" title="Method" width="300"><p>
 
 ## Associated Papers
 - Feature Importance in a Deep Learning Climate Emulator [ [ArXiV](https://arxiv.org/abs/2108.13203) ] [ [ICLR 2021 Workshop on Modeling Oceans and Climate Change](https://iclr.cc/virtual/2021/workshop/2123) ]
